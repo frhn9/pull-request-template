@@ -2,7 +2,7 @@
 Place what this pull request changes and anything affected. If your PR block or require another PR, also need to mention here
 
 ## Why are we doing this? Any context or related work?
-You may put your bitrix link/kanban/requirement detail here
+You may put your jira/bitrix/kanban/requirement detail here
 
 ## Where should a reviewer start?
 optional -- if your changes affected so much files, it is encouraged to give helper for reviewer
